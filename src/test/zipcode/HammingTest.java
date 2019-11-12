@@ -1,4 +1,4 @@
-package zipcode;
+package zip4code;
 
 import org.junit.Rule;
 import org.junit.Test;
